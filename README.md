@@ -16,12 +16,15 @@ I use these programming languages:
 ### Tools I use
 
  - Godot Engine
+ - Unity Engine
  - paint.net
  - Krita
  - VSCodium
  - Sublime Text
  - Sublime Merge
  - Alacritty
+ - Blender
+ - Pixelorama
 
 ### Projects I work on
 
