@@ -34,5 +34,5 @@ I use these programming languages:
 
 ### Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=terraquad)](#)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=terraquad&layout=compact)](#)
+[![Stats](https://github-readme-stats.vercel.app/api?username=terraquad&theme=transparent&show_icons=true)](#)
+[![Code percentages](https://github-readme-stats.vercel.app/api/top-langs/?username=terraquad&layout=compact)](#)
