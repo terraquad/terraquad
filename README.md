@@ -30,7 +30,7 @@ I use these programming languages:
 
  - CubeFaith (Cross-platform Minecraft clone optimized for performance and extensibility, mods can be made with TOML and Wren)
  - Crediton (Cross-platform 2D/3D/VR Game Engine for PC, mobile and console platforms)
- - Bemit (Fast, embeddable scripting language)
+ - Tromei (Fast, embeddable scripting language)
 
 ### Stats
 
