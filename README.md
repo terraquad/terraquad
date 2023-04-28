@@ -11,6 +11,7 @@ I use these programming languages:
  - C++
  - C#
  - Python
+ - GDScript
  - HTML/CSS/JS
 
 ### Tools I use
