@@ -1,18 +1,7 @@
 ## Thanks for visiting my profile!
 
 Hi! I'm terraquad, a software developer and artist. On GitHub, I upload my projects so you guys can see the source code of them.
-
-### Programming languages
-
-I use these programming languages:
- - Zig
- - Kotlin
- - Java
- - C++
- - C#
- - Python
- - GDScript
- - HTML/CSS/JS
+I often participate in game jams. You can see my itch profile [here](https://terraquad.itch.io).
 
 ### Tools I use
 
@@ -26,12 +15,6 @@ I use these programming languages:
  - Alacritty
  - Blender
  - Pixelorama
-
-### Projects I work on
-
- - Crediton (Cross-platform 2D/3D/VR Game Engine for PC, mobile and console platforms)
- - Tromei (Fast, embeddable scripting language)
- - A Secret Game...
 
 ### Stats
 
