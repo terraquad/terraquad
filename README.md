@@ -6,10 +6,10 @@ I often participate in game jams. You can see my itch profile [here](https://ter
 ## Projects I work on
 
 This is a list of projects I'm working on:
- - Crediton: A free, cross-platform game engine for 2D, 3D and VR games. (Language: Zig)
- - Tromei: Modern and elegant programming language which is transpiled to other languages. The primary use case is game development. (Language: Haxe)
- - ShadyScript: A multiplatform shading language used by Crediton. (Language: Haxe)
- - Visuality: A visual scripting interface for Crediton. It supports Flowcharts and block based structures. (Language: Kotlin)
+ - Crediton: A free, cross-platform game engine for 2D, 3D and VR games.
+ - Tromei: Modern and elegant programming language which is transpiled to other languages. The primary use case is game development.
+ - ShadyScript: A multiplatform shading language used by Crediton.
+ - Visuality: A visual scripting interface for Crediton. It supports Flowcharts and block based structures.
 
 ### Stats
 
