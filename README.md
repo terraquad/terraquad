@@ -1,7 +1,7 @@
 # Thanks for visiting my profile!
 
 Hi! I'm terraquad, a software developer and artist. On GitHub, I upload my projects so you can see the source code of them.
-I make games and other stuff (currently programming languages).
+I make games and other stuff (currently mainly programming languages and game-related apps).
 
 ## Programming languages I "speak"
 
