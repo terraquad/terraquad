@@ -12,7 +12,7 @@ Well, I don't speak in binary, but I can write code in these languages:
  - [Rust](https://rust-lang.org): I use it for system-near programs like drivers or programming languages. I really like the ownership model for managing memory.
  - [Zig](https://ziglang.org): I use it for stuff which needs to be **blazingly** fast. I can't even express how fast this language is.
  - [TypeScript](https://typescriptlang.org): My first-choice scripting language. I probably like it because of Haxe.
- - [Go](https://golang.org): Useful for making servers for games as well as for websites. I like the simple concurrency it offers (and its mascot :D).
+ - [Go](https://go.dev): Useful for making servers for games as well as for websites. I like the simple concurrency it offers (and its mascot :D).
 
 ## Projects I work on
 
