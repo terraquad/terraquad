@@ -1,7 +1,18 @@
 # Thanks for visiting my profile!
 
 Hi! I'm terraquad, a software developer and artist. On GitHub, I upload my projects so you can see the source code of them.
-I often participate in game jams. You can see my itch profile [here](https://terraquad.itch.io).
+I make games and other stuff (currently programming languages).
+
+## Programming languages I "speak"
+
+Well, I don't speak in binary, but I can write code in these languages:
+ - [Haxe](https://haxe.org): I use it as a "playground" for my ideas. I think it's easy and I appreciate that it is multiplatform.
+ - [Kotlin](https://kotlinlang.org): I use it mainly for UI stuff (TornadoFX) but also to make Android apps.
+ - [C++](https://cpp-lang.net): I hardly use it. I am not a fan of the syntax but I thought it could be helpful someday.
+ - [Rust](https://rust-lang.org): I use it for system-near programs like drivers or programming languages. I really like the ownership model for managing memory.
+ - [Zig](https://ziglang.org): I use it for stuff which needs to be **blazingly** fast. I can't even express how fast this language is.
+ - [TypeScript](https://typescriptlang.org): My first-choice scripting language. I probably like it because of Haxe.
+ - [Go](https://golang.org): Useful for making servers for games as well as for websites. I like the simple concurrency it offers (and its mascot :D).
 
 ## Projects I work on
 
