@@ -7,9 +7,9 @@ I often participate in game jams. You can see my itch profile [here](https://ter
 
 This is a list of projects I'm working on:
  - Crediton: A free, cross-platform game engine for 2D, 3D and VR games.
- - Tromei: Modern and elegant programming language which is transpiled to other languages. The primary use case is game development.
+ - Tromei: Modern and fast programming language.
+ - CGDL (Crossplatform Game Development Language): A programming language which generates code for multiple game engines for easier engine migration.
  - ShadyScript: A multiplatform shading language used by Crediton.
- - Visuality: A visual scripting interface for Crediton. It supports Flowcharts and block based structures.
 
 ### Stats
 
