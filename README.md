@@ -18,9 +18,9 @@ Well, I don't speak in binary, but I can write code in these languages:
 
 This is a list of projects I'm working on:
  - Crediton: A free, cross-platform game engine for 2D, 3D and VR games.
- - Tromei: Modern and fast programming language.
+ - Tromei: Modern and fast programming language which can be used for rapid prototyping by providing various compilation targets such as VM bytecode, native code or JavaScript (with WASM).
  - CGDL (Crossplatform Game Development Language): A programming language which generates code for multiple game engines for easier engine migration.
- - ShadyScript: A multiplatform shading language used by Crediton.
+ - ShadyScript: A multiplatform shading language used by Crediton which is compiled to GLSL, HLSL or ReShade FX.
 
 ### Stats
 
