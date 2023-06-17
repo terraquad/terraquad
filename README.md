@@ -21,6 +21,7 @@ This is a list of projects I'm working on:
  - Tromei: Modern and fast programming language which can be used for rapid prototyping by providing various compilation targets such as VM bytecode, native code or JavaScript (with WASM).
  - CGDL (Crossplatform Game Development Language): A programming language which generates code for multiple game engines for easier engine migration.
  - ShadyScript: A multiplatform shading language used by Crediton which is compiled to GLSL, HLSL or ReShade FX.
+ - StreamflowVM: A fast embeddable VM used by Crediton and Tromei application dev builds.
 
 ### Stats
 
