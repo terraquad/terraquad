@@ -8,11 +8,11 @@ I make games and other stuff (currently mainly programming languages and game-re
 Well, I don't speak in binary, but I can write code in these languages:
  - [Haxe](https://haxe.org): I use it as a "playground" for my ideas. I think it's easy and I appreciate that it is multiplatform.
  - [Kotlin](https://kotlinlang.org): I use it mainly for UI stuff (TornadoFX) but also to make Android apps. The syntax is the best one I've ever seen. Great work, JetBrains!
- - [C++](https://cpp-lang.net): I hardly use it. I am not a fan of the syntax but I thought it could be helpful someday.
  - [Rust](https://rust-lang.org): I use it for system-near programs like drivers or programming languages. I really like the ownership model for managing memory.
  - [Zig](https://ziglang.org): I use it for stuff which needs to be **blazingly** fast. I can't even express how fast this language is.
  - [TypeScript](https://typescriptlang.org): My first-choice scripting language. I probably like it because of Haxe.
  - [Go](https://go.dev): Useful for making servers for games as well as for websites. I like the simple concurrency it offers (and its mascot :D).
+ - [C#](https://learn.microsoft.com/de-de/dotnet/csharp/): I use it for game development. It's like Java but with features from Kotlin.
 
 ## Projects I work on
 
