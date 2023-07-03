@@ -10,18 +10,18 @@ I'm terraquad, a software and game developer. I like to help on projects and I a
 
 ## Programming languages I can "speak"
 
- - ![Kotlin](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg) Kotlin
- - ![Haxe](https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-original.svg) Haxe
- - ![Dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg) Dart
- - ![Go](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg) Go
- - ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) TypeScript
- - ![Rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg) Rust
- - ![Zig](https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg) Zig
- - (Missing logo) Carbon
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40" />
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-original.svg" title="Haxe" alt="Haxe" width="40" height="40" />
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40" />
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40" />
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40" />
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40" />
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
 
 ## Frameworks I use
 
- - [Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg) Flutter
+ - <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" />
 
 ## Stats
 
