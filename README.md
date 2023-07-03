@@ -1,29 +1,34 @@
-# Thanks for visiting my profile!
+# Hey there!
 
-Hi! I'm terraquad, a software developer and artist. On GitHub, I upload my projects so you can see the source code of them.
-I make games and other stuff (currently mainly programming languages and game-related apps).
+I'm terraquad, a software and game developer. I like to help on projects and I also draw/animate.
 
-## Programming languages I "speak"
+[GitHub](https://github.com/terraquad/)<br/>
+[itch](https://terraquad.itch.io/)<br/>
+[YouTube](https://youtube.com/@terraquad-dev)<br/>
+[Twitter](https://twitter.com/terraquad)<br/>
+[Homepage](https://terraquad.dev/)<br/>
 
-Well, I don't speak in binary, but I can write code in these languages:
- - [Haxe](https://haxe.org): I use it as a "playground" for my ideas. I think it's easy and I appreciate that it is multiplatform.
- - [Kotlin](https://kotlinlang.org): I use it mainly for UI stuff (TornadoFX) but also to make Android apps. The syntax is the best one I've ever seen. Great work, JetBrains!
- - [Rust](https://rust-lang.org): I use it for system-near programs like drivers or programming languages. I really like the ownership model for managing memory.
- - [Zig](https://ziglang.org): I use it for stuff which needs to be **blazingly** fast. I can't even express how fast this language is.
- - [TypeScript](https://typescriptlang.org): My first-choice scripting language. I probably like it because of Haxe.
- - [Go](https://go.dev): Useful for making servers for games as well as for websites. I like the simple concurrency it offers (and its mascot :D).
- - [C#](https://learn.microsoft.com/de-de/dotnet/csharp/): I use it for game development. It's like Java but with features from Kotlin.
+## Programming languages I can "speak"
 
-## Projects I work on
+ - ![Kotlin](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg) Kotlin
+ - ![Haxe](https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-original.svg) Haxe
+ - ![Dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg) Dart
+ - ![Go](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg) Go
+ - ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) TypeScript
+ - ![Rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg) Rust
+ - ![Zig](https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg) Zig
+ - (Missing logo) Carbon
 
-This is a list of projects I'm working on:
- - Crediton: A free, cross-platform game engine for 2D, 3D and VR games.
- - Tromei: Modern and fast programming language which can be used for rapid prototyping by providing various compilation targets such as VM bytecode, native code or JavaScript (with WASM).
- - CGDL (Crossplatform Game Development Language): A programming language which generates code for multiple game engines for easier engine migration.
- - ShadyScript: A multiplatform shading language used by Crediton which is compiled to GLSL, HLSL or ReShade FX.
- - StreamflowVM: A fast embeddable VM used by Crediton and Tromei application dev builds.
+## Frameworks I use
 
-### Stats
+ - [Flutter](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg) Flutter
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=terraquad&theme=transparent&show_icons=true)](#)
-[![Code percentages](https://github-readme-stats.vercel.app/api/top-langs/?username=terraquad&layout=compact)](#)
+## Stats
+
+![Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terraquad&theme=github_dark)
+
+![Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=terraquad&theme=github_dark)
+
+![Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=terraquad&theme=github_dark)
+
+![Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=terraquad&theme=github_dark)
