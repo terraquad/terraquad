@@ -6,7 +6,6 @@ I'm terraquad, a software and game developer. I like to help on projects and I a
 [itch](https://terraquad.itch.io/)<br/>
 [YouTube](https://youtube.com/@terraquad-dev)<br/>
 [Twitter](https://twitter.com/terraquad)<br/>
-[Homepage](https://terraquad.dev/)<br/>
 
 ## Programming languages I can "speak"
 
