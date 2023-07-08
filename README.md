@@ -18,9 +18,9 @@ I'm terraquad, a software and game developer. I like to help on projects and I a
  - <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40" />
  - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
 
-## Frameworks I use
+## Projects I'm working on
 
- - <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" />
+ - Crediton: A 2D/3D/VR game engine made with Zig to build lightweight and fast games. The game doesn't get bundled with a runtime, instead it will be compiled natively using a custom IR.
 
 ## Stats
 
