@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm terraquad, a software and game developer. I like to help on projects and I also draw/animate.
+I'm terraquad, a software and game developer.
 
 [GitHub](https://github.com/terraquad/)<br/>
 [itch](https://terraquad.itch.io/)<br/>
