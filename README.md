@@ -9,7 +9,7 @@ I'm terraquad, a software and game developer.
 
 ## Stuff I use
 
-## Programming languages I can "speak"
+### Programming languages I can "speak"
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="48" height="48" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="48" height="48" /> &nbsp;
@@ -19,16 +19,12 @@ I'm terraquad, a software and game developer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="48" height="48" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="48" height="48" /> &nbsp;
 
-## Technologies I use
+### Technologies I use
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="48" height="48" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="48" height="48" /> &nbsp;
-
-## Apps I use for development (WIP)
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="48" height="48" /> &nbsp;
 
 ## Stats
 
