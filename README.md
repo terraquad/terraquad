@@ -1,11 +1,8 @@
-# Hey there!
-
-I'm terraquad, a software and game developer.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=terraquad&fontSize=80)
 
 [GitHub](https://github.com/terraquad/)<br/>
 [itch](https://terraquad.itch.io/)<br/>
 [YouTube](https://youtube.com/@terraquad-dev)<br/>
-[Twitter](https://twitter.com/terraquad)<br/>
 
 ## Stats
 
