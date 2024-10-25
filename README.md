@@ -1,4 +1,4 @@
-![title](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=terraquad&fontAlign=45&fontAlignY=40&animation=fadeIn&desc=Software%20and%20game%20developer&descAlign=66&fontSize=80&descSize=20&descAlignY=57)
+![title](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=terraquad&fontAlign=45&fontAlignY=40&animation=fadeIn&desc=App%20and%20game%20dev&descAlign=61&fontSize=80&descSize=20&descAlignY=56)
 
 [GitHub](https://github.com/terraquad/)<br/>
 [itch](https://terraquad.itch.io/)<br/>
