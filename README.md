@@ -3,7 +3,6 @@
 [GitHub](https://github.com/terraquad/)<br/>
 [itch](https://terraquad.itch.io/)<br/>
 [YouTube](https://youtube.com/@terraquad-dev)<br/>
-[My website](https://terraquad.dev)<br/>
 
 ## Stats
 
