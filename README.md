@@ -4,6 +4,9 @@
 [itch](https://terraquad.itch.io/)<br/>
 [YouTube](https://youtube.com/@terraquad-dev)<br/>
 
+Hello fellow stranger! I'm a programmer from Germany and I mainly make games, but also other stuff. I want to learn how to make music and how to draw.
+If you want to contact me, do so either via E-Mail (contact@terraquad.dev) or via Discord (@terraquad).
+
 ## Stats
 
 ![Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terraquad&theme=github_dark)
