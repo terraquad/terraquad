@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=terraquad&section=header&reversal=false&textBg=false&stroke=000000&strokeWidth=1&desc=Welcome%20to%20my%20profile!&descAlignY=68&fontAlignY=45&descAlign=63&fontAlign=45" />
 </p>
 
-Hello fellow stranger! I'm a programmer from Germany and I mainly make games, but also other stuff. I want to learn how to make music and how to draw.
-If you want to contact me, do so either via E-Mail (contact@terraquad.dev) or via Discord (@terraquad).
+Hello fellow stranger! I'm a programmer from Germany and I mainly make games, but also other kinds of programs.
+I'm currently trying to learn modeling.
 
 [![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terraquad)
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://terraquad.itch.io)
