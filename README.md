@@ -7,7 +7,7 @@ If you want to contact me, do so either via E-Mail (contact@terraquad.dev) or vi
 
 [![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terraquad)
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://terraquad.itch.io)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@terraquad-dev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@terraquad)
 [![Homepage](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://terraquad.dev)
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,zig,dart,flutter,godot,kotlin,vscode,git,linux)
