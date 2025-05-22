@@ -10,7 +10,7 @@ I'm currently trying to learn modeling.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@terraquad)
 [![Homepage](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://terraquad.dev)
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,zig,dart,flutter,godot,vscode,git,linux)
+![Skills](https://skillicons.dev/icons?i=c,cpp,zig,rust,dart,flutter,godot)
 
 ## Stats
 
