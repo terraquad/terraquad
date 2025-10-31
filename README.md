@@ -3,7 +3,7 @@
 </p>
 
 Hello fellow stranger! I'm a programmer from Germany and I mainly make games, but also other kinds of programs.
-I'm currently trying to learn modeling.
+I'm currently trying to learn 3D modeling.
 
 [![GitHub](https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/terraquad)
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://terraquad.itch.io)
