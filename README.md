@@ -12,10 +12,3 @@ I'm currently trying to learn 3D modeling.
 [![Homepage](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://terraquad.dev)
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,zig,rust,dart,flutter,godot)
-
-## Stats
-
-![Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terraquad&theme=github_dark)
-![Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=terraquad&theme=github_dark)
-![Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=terraquad&theme=github_dark)
-![Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=terraquad&theme=github_dark)
