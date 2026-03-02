@@ -5,6 +5,8 @@
 Hello fellow stranger! I'm a programmer from Germany and I mainly make games, but also other kinds of programs.
 I'm interested in learning 3D modeling.
 
+## Links
+
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/terraquad)<br>`terraquad`
 
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://terraquad.itch.io)<br>`@terraquad`
