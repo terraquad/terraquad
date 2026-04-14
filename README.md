@@ -15,9 +15,9 @@ I'm interested in learning 3D modeling.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@terraquad)<br>`@terraquad`
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://kanoa.de/@terraquad)<br>`@terraquad@troet.cafe`
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://kanoa.de/@terraquad)<br>`@terraquad@kanoa.de`
 
-[![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@terraquad1:nope.chat)<br>`@terraquad:nope.chat`
+[![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@terraquad1:nope.chat)<br>`@terraquad1:nope.chat`
 
 ## Skills
 
