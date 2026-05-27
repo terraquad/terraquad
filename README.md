@@ -1,4 +1,4 @@
-# Moved
+# 301 Moved Permanently
 
 I've moved to [Codeberg](https://codeberg.org/terraquad).
 
