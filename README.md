@@ -1,5 +1,5 @@
 # Moved
 
-I've moved to Gitea hosted at [adminForge](https://adminforge.de). You can find my profile [here](https://git.adminforge.de/terraquad).
+I've moved to [Codeberg](https://codeberg.org/terraquad).
 
-I will keep this account for collaboration on external projects.
+I will keep this account only for collaboration on external projects (issues, pull requests).
